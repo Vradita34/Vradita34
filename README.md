@@ -27,7 +27,7 @@ I'm a passionate developer with experience in web development. I'm always eager 
 - Python
 - PHP
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/Vradita34/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vradita34&show_icons=true&theme=dracula)
 
