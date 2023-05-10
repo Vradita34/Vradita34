@@ -8,15 +8,11 @@
     <div style="display: flex; justify-content: center;">
         <img src="https://picsum.photos/id/237/200/200" alt="Profil" style="border-radius: 50%; margin-right: 20px;">
         <div>
-            <p style="font-size: 20px;"><strong>Nama:</strong> John Doe</p>
-            <p style="font-size: 20px;"><strong>Umur:</strong> 30 tahun</p>
-            <p style="font-size: 20px;"><strong>Email:</strong> john.doe@gmail.com</p>
-            <p style="font-size: 20px;"><strong>Alamat:</strong> Jl. Jend. Sudirman No. 123, Jakarta</p>
+            <p style="font-size: 20px;"><strong>Nama:</strong> Vradita Candra Kusuma</p>
+            <p style="font-size: 20px;"><strong>Umur:</strong> 17 tahun</p>
+            <p style="font-size: 20px;"><strong>Email:</strong> vradita29@gmail.com</p>
         </div>
     </div>
-    <p style="font-size: 20px; margin-top: 20px;">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer laoreet turpis quis justo ultricies mattis. Morbi viverra, ligula sit amet suscipit tempor, felis mauris sodales nibh, non varius mauris massa sit amet neque. Sed sollicitudin volutpat dolor ac ultrices. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc semper vestibulum lacinia. Praesent nec bibendum mi. Nullam quis nisi nec elit blandit sodales. Nullam mattis malesuada est, eget interdum nisl feugiat vitae. 
-    </p>
 </body>
 
 I'm a passionate developer with experience in web development, machine learning, and mobile apps. I'm always eager to learn new things and challenge myself to build better solutions.
@@ -24,12 +20,11 @@ I'm a passionate developer with experience in web development, machine learning,
 ## Skills
 - HTML/CSS
 - JavaScript
-- React
+- Bootstrap
+- Codeigniter
 - Python
-- TensorFlow
+- PHP
 
 
 ## Contact me
-- Email: john.doe@example.com
-- Twitter: @johndoe
-- LinkedIn: linkedin.com/in/johndoe
+- Email: vradita29@example.com
