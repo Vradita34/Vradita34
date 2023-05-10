@@ -24,9 +24,9 @@ I'm a passionate developer with experience in web development. I'm always eager 
 - Codeigniter
 - Python
 - PHP
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vradita34&show_icons=true&theme=dracula)
 
 ## Contact me
 - Email: vradita29@example.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vradita34&show_icons=true&theme=dracula)
+
