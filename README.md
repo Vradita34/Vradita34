@@ -14,7 +14,7 @@
     </div>
 </body>
 
-I'm a passionate developer with experience in web development, machine learning, and mobile apps. I'm always eager to learn new things and challenge myself to build better solutions.
+I'm a passionate developer with experience in web development. I'm always eager to learn new things and challenge myself to build better solutions.
 
 ## Skills
 - HTML/CSS
