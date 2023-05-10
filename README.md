@@ -11,12 +11,13 @@
             <p style="font-size: 20px;"><strong>Name:</strong> Vradita Candra Kusuma</p>
             <p style="font-size: 20px;"><strong>Age:</strong> 17 tahun</p>
             <p style="font-size: 20px;"><strong>School:</strong> SMKN 2 KARANGANYAR </p>
-            <p style="font-size: 20px;"><strong>Email:</strong> vradita29@gmail.com</p>
         </div>
     </div>
 </body>
 
 I'm a passionate developer with experience in web development. I'm always eager to learn new things and challenge myself to build better solutions.
+
+<i>I Wanna Die -_-!</i>
 
 ## Skills
 - HTML/CSS
