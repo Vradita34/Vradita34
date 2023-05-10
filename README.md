@@ -2,7 +2,7 @@
 
 
 <body style="font-family: Arial, sans-serif; padding: 20px;">
-    <h1 style="text-align: center; color: #333;">Tentang Saya</h1>
+    <h1 style="text-align: center; color: #333;">About Me</h1>
     <hr style="margin-bottom: 20px;">
     <div style="display: flex; justify-content: center;">
          <img src="https://tenor.com/id/view/tkthao219-bubududu-gif-25577588.gif" align="right" width="220px" height="220px">
