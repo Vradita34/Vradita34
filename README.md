@@ -34,5 +34,5 @@ build better solutions.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vradita34&show_icons=true&theme=dracula)
 
 ## Contact me
-- Email: vradita29@example.com
+- Email: vradita29@gmail.com
 - Instagram: vradita_28
