@@ -9,7 +9,7 @@
     </div>
         <div>
             <p style="font-size: 20px;"><strong>Name:</strong> Vradita Candra Kusuma</p>
-            <p style="font-size: 20px;"><strong>Age:</strong> 17 tahun</p>
+            <p style="font-size: 20px;"><strong>Age:</strong> 17 </p>
             <p style="font-size: 20px;"><strong>School:</strong> SMKN 2 KARANGANYAR </p>
         </div>
     </div>
