@@ -3,10 +3,10 @@
 
 <body style="font-family: Arial, sans-serif; padding: 20px;">
     <h1 style="text-align: center; color: #333;">About Me</h1>
+    <hr style="margin-bottom: 20px;">
     <div style="display: flex; justify-content: center;">
          <img src="https://tenor.com/id/view/tkthao219-bubududu-panda-gif-22124378.gif" align="right" width="220px" height="220px">
     </div>
-    <hr style="margin-bottom: 20px;">
         <div>
             <p style="font-size: 20px;"><strong>Name:</strong> Vradita Candra Kusuma</p>
             <p style="font-size: 20px;"><strong>Age:</strong> 17 </p>
