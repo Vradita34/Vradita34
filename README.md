@@ -25,9 +25,13 @@ build better solutions.
 - HTML/CSS
 - JavaScript
 - Bootstrap
-- Codeigniter
-- Python
+- Codeigniter 3
+- Laravel 10
+- Node JS
+- React
+- Express
 - PHP
+- Mysql
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vradita34&hide_progress=true)](https://github.com/Vradita34/github-readme-stats)
 
