@@ -9,7 +9,7 @@
          <img src="https://tenor.com/id/view/tkthao219-bubududu-panda-gif-22124378.gif" align="right" width="220px" height="220px">
     </div>
             <p style="font-size: 20px;"><strong>Name:</strong> Vradita Candra Kusuma</p>
-            <p style="font-size: 20px;"><strong>Age:</strong> 17 </p>
+            <p style="font-size: 20px;"><strong>Age:</strong> 18 </p>
             <p style="font-size: 20px;"><strong>School:</strong> SMKN 2 KARANGANYAR </p>
         </div>
     </div>
