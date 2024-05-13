@@ -34,6 +34,7 @@ build better solutions.
 - Mysql
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vradita34&hide_progress=true)](https://github.com/Vradita34/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vradita34&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vradita34&show_icons=true&theme=dracula)
 
