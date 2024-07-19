@@ -11,7 +11,13 @@
             <p style="font-size: 20px;"><strong>Name:</strong> Vradita Candra Kusuma</p>
             <p style="font-size: 20px;"><strong>Age:</strong> 18 </p>
             <p style="font-size: 20px;"><strong>School:</strong> SMKN 2 KARANGANYAR </p>
-            <p style="font-size: 20px;"><strong>My Web Porto:</strong> <a style="text-decoration:none;" href="https://vraditaporto1.vercel.app/" target="_blank"> Click Here !</a> </p>
+          <p style="font-size: 20px;">
+  <strong>My Web Porto:</strong>
+  <a style="text-decoration:none;" href="https://vraditaporto1.vercel.app/" target="_blank" rel="noopener noreferrer">
+    Click Here!
+  </a>
+</p>
+
         </div>
     </div>
 </body>
