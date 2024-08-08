@@ -19,8 +19,6 @@ I'm a passionate developer with experience in web development. <br>
 I'm always eager to learn new things and challenge myself to
 build better solutions.
 
-<i>I Wanna Die -\_-!</i>
-
 ## Skills
 
 - HTML/CSS
