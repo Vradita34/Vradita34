@@ -24,6 +24,7 @@ build better solutions.
 - HTML/CSS
 - JavaScript
 - Bootstrap
+- Tailwind CSS
 - Codeigniter 3
 - Laravel 10
 - Node JS
