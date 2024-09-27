@@ -26,7 +26,7 @@ build better solutions.
 - Bootstrap
 - Tailwind CSS
 - Codeigniter 3
-- Laravel 10
+- Laravel 10 / 11
 - Node JS
 - React
 - Express
