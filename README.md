@@ -1,8 +1,8 @@
 # Hi there, I'm Vradita Candra Kusuma 👋
 
 <div align="center">
-  <img src="https://tenor.com/id/view/tkthao219-bubududu-panda-gif-22124378.gif" width="200" height="200">
-   ![648651](https://github.com/user-attachments/assets/2967ff4f-d5a3-4303-ba2e-a0368bfe3365)
+<!--   <img src="https://tenor.com/id/view/tkthao219-bubududu-panda-gif-22124378.gif" width="200" height="200"> -->
+   <a href="https://ibb.co.com/cXJMXBbJ"><img src="https://i.ibb.co.com/XkXNkQyX/648651.gif" alt="648651" border="0"></a>
 </div>
 
 <div align="center">
