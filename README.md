@@ -2,7 +2,7 @@
 
 <div align="center">
 <!--   <img src="https://tenor.com/id/view/tkthao219-bubududu-panda-gif-22124378.gif" width="200" height="200"> -->
-  <img width="375" height="325" alt="image" src="https://github.com/user-attachments/assets/ff47e7f4-4c16-401e-a154-6afd8a82630c" />
+  <img src="https://media1.tenor.com/m/PFmTN28CoekAAAAd/hacker-typing.gif" widht-"auto" height"auto"/>
 
 </div>
 
