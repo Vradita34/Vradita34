@@ -1,8 +1,8 @@
-<img width="1757" height="887" alt="image" src="https://github.com/user-attachments/assets/a6d1d03b-db6c-471c-a20c-dbe536a6bd18" /># Hi there, I'm Vradita Candra Kusuma 👋
+# Hi there, I'm Vradita Candra Kusuma 👋
 
 <div align="center">
-<!--   <img src="https://tenor.com/id/view/tkthao219-bubududu-panda-gif-22124378.gif" width="200" height="200"> -->
-  <a href="https://ibb.co.com/cXJMXBbJ"><img src="https://i.ibb.co.com/XkXNkQyX/648651.gif" alt="648651" border="0"></a>
+  <img src="https://tenor.com/id/view/tkthao219-bubududu-panda-gif-22124378.gif" width="200" height="200">
+  ![648651](https://github.com/user-attachments/assets/ab4b8860-5504-4f7f-9255-67e3dae49cb1)
 </div>
 
 <div align="center">
