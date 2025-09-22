@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://tenor.com/id/view/tkthao219-bubududu-panda-gif-22124378.gif" width="200" height="200">
-   <a href="https://ibb.co.com/cXJMXBbJ"><img src="https://i.ibb.co.com/XkXNkQyX/648651.gif" alt="648651" border="0"></a>
+  <img src="https://i.ibb.co.com/XkXNkQyX/648651.gif" alt="648651" border="0">
 </div>
 
 <div align="center">
