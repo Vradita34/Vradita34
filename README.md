@@ -17,7 +17,7 @@
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 👨‍💻 **Name:** Vradita Candra Kusuma
-- 🎂 **Age:** 19 years old
+- 🎂 **Age:** 20 years old
 - 🌐 **Portfolio:** [Visit My Website](https://vraditaporto1.vercel.app/)
 - 📧 **Email:** vradita29@gmail.com
 - 📱 **Instagram:** [@vradita_28](https://instagram.com/vradita_28)
